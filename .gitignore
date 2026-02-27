@@ -4,6 +4,7 @@
 *.exe
 *.elf
 *.bin
+build/
 
 # Debug
 *.log
